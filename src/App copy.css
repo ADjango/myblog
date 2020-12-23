@@ -1,0 +1,8 @@
+.commentItem-hoverBtn {
+  margin-left: 10px !important;
+  display: none !important;
+}
+
+.comment :hover .commentItem-hoverBtn {
+  display: inline-block !important;
+}
